@@ -9,6 +9,9 @@
 
 **Goal 3:** Comparing the performance and interpretability of regression models and classification models. The comparison will highlight which method provides more actionable insights for identifying students at risk of low performance.
 
+**Instructions to run the code** All of our code is in the Jupyter Notebook called "StudentPerformance.ipynb". In the notebook pressing "Kernel" -> "Restart Kernel and run all Cells..." should run the whole pipeline of our project.
+
+
 **Links:** [1] https://www.kaggle.com/datasets/mosapabdelghany/student-performance-factors-dataset/data
 
 Project for IDS course 2025
