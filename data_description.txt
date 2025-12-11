@@ -1,0 +1,22 @@
+StudentPerformanceFactors.csv file column descriptions:
+
+Hours_Studied: Number of study hours per week
+Attendance: Percentage of attendance throughout the term
+Parental_Involvement: Level of parental support in academics (Low, Medium, High)
+Access_to_Resources: Availability of academic Resources like books or internet (Low, Medium, High)
+Extracurricular_Activities: Whether the student takes part in extracurricular activities (Yes, No)
+Sleep_Hours: Average hours of sleep per day
+Previos_Scores: Average of previous academic scores
+Motivation_Level: Student's morivation level (Low, Medium, High)
+Internet_Access: Whether the student has Access to the internet (Yes, No)
+Tutoring_Sessions: Number of tutoring sessions per week
+Family_Income: Family income level (Low, Medium, High)
+Teacher_Quality: Overall perceived teacher quality (Low, Medium, High)
+School_Type: Type of school (Public, Private)
+Peer_Influence: Influence of peers on academic performance (Negative, Neutral, Positive)
+Physical_Activity: Hours of physical activity per week
+Learning_Disability: Presence of any learning disabilities (Yes, No)
+Parental_Education_Level: Highest education level of parents (High School, College, Postgraduate)
+Distance_from_Home: Distance between home and school (Near, Moderate, Far)
+Gender: Student’s gender (Male, Female)
+Exam_Score: Final exam score (0–100) — the target variable
